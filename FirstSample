@@ -1,0 +1,16 @@
+﻿using System;
+
+namespace FirstSample
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            Console.WriteLine("Hello World!");
+            Console.WriteLine("\nThis course section is:\tOA3");
+
+            string myName = "Olivia Klak";
+            Console.WriteLine($"This name is printed from a variable is:\t{myName}");
+        }
+    }
+}
